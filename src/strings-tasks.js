@@ -565,7 +565,7 @@ function getCardId(value) {
     'Q♠',
     'K♠',
   ];
-  arr.forEach((val, index) => {
+  arr.forEach((value, index) => {
     return index;
   });
 }  
